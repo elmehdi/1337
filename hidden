@@ -1,0 +1,3 @@
+To see the files: defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder
+
+To remove them: defaults write com.apple.finder AppleShowAllFiles -boolean false ; killall Finder
