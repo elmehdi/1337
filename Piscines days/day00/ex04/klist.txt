@@ -1,0 +1,8 @@
+Credentials cache: API:1942
+        Principal: elfetoua@1337.MA
+
+  Issued                Expires               Principal
+Feb 13 14:39:04 2019  Feb 14 00:39:04 2019  krbtgt/1337.MA@1337.MA
+Feb 13 14:39:07 2019  Feb 14 00:39:04 2019  ldap/ldap-master.1337.ma@1337.MA
+Feb 13 14:39:07 2019  Feb 14 00:39:04 2019  HTTP/iscsi.1337.ma@1337.MA
+Feb 13 16:58:16 2019  Feb 14 00:39:04 2019  host/vogsphere.1337.ma@1337.MA
